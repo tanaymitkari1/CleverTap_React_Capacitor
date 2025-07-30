@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "643345996643",
+    "project_id": "capacitordemo-fe030",
+    "storage_bucket": "capacitordemo-fe030.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643345996643:android:10db9d6020c19489641156",
+        "android_client_info": {
+          "package_name": "com.migration.demoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoojzStI1qXPON_5nauC1Wq6SGxyE5KLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

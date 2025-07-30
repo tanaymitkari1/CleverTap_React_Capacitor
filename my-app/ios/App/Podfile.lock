@@ -1,0 +1,42 @@
+PODS:
+  - Capacitor (7.2.0):
+    - CapacitorCordova
+  - CapacitorCordova (7.2.0)
+  - CleverTap-iOS-SDK (7.1.0):
+    - SDWebImage (~> 5.11)
+  - CordovaPlugins (7.2.0):
+    - CapacitorCordova
+    - CleverTap-iOS-SDK (= 7.1.0)
+  - SDWebImage (5.21.0):
+    - SDWebImage/Core (= 5.21.0)
+  - SDWebImage/Core (5.21.0)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - CleverTap-iOS-SDK
+  - CordovaPlugins (from `../capacitor-cordova-ios-plugins`)
+
+SPEC REPOS:
+  trunk:
+    - CleverTap-iOS-SDK
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CordovaPlugins:
+    :path: "../capacitor-cordova-ios-plugins"
+
+SPEC CHECKSUMS:
+  Capacitor: 106e7a4205f4618d582b886a975657c61179138d
+  CapacitorCordova: 5967b9ba03915ef1d585469d6e31f31dc49be96f
+  CleverTap-iOS-SDK: 571ced90fc6378635db504f9767c62858e2c5286
+  CordovaPlugins: 6f31fd233ed93d2a97642e2d5fa538f017d2f666
+  SDWebImage: f84b0feeb08d2d11e6a9b843cb06d75ebf5b8868
+
+PODFILE CHECKSUM: 8c696b80998e97f59218f04de6daa0a6c3a78177
+
+COCOAPODS: 1.16.2
